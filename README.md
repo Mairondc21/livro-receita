@@ -3,9 +3,6 @@
 ola bem vindo ao livro de receitas 
 
 - Strogonoff de frango
-
 - leite
-
 - sal
-
-  
+- pave
